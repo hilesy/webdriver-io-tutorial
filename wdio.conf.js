@@ -1,7 +1,7 @@
 exports.config = {
 
- user: 'asos_cpt',
- key: '0a08f159-91e7-40a0-ba08-9c9e2cb3d4ea',
+ user: '<USER>',
+ key: '<KEY>',
  sauceConnect: false,
 
     specs: [
