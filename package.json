@@ -1,0 +1,19 @@
+{
+  "name": "webdriver-io-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/wdio wdio.conf.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-webdriverio": "^0.4.3",
+    "wdio-mocha-framework": "^0.6.4",
+    "wdio-sauce-service": "^0.4.14",
+    "wdio-selenium-standalone-service": "0.0.11",
+    "webdriverio": "^4.14.0"
+  }
+}
